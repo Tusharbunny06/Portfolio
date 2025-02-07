@@ -20,7 +20,7 @@ Smooth Scrolling: Enables easy navigation between sections.
 
 Responsive Design: Ensures accessibility across different devices.
 
-Technologies Used
+Technologies Used:
 
 HTML5
 
