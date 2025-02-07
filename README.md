@@ -68,7 +68,7 @@ Include a blog section for updates and insights.
 
 Author
 
-Tushar - Data Science Student at SRM University
+(Tushar - Data Science Student at SRM University)
 
 License
 
