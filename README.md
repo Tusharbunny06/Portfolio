@@ -58,7 +58,7 @@ Modify style.css to change colors, fonts, and layout.
 
 Extend functionality using JavaScript.
 
-Future Enhancements
+Future Enhancements:
 
 Add a backend to handle contact form submissions.
 
