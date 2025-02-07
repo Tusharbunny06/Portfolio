@@ -48,7 +48,7 @@ File Structure
 |-- images/     (Folder for storing images)
 |-- script.js   (JavaScript file for interactivity)
 
-Customization
+Customization:
 
 Update index.html to include your personal information.
 
