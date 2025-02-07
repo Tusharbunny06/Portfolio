@@ -4,7 +4,7 @@ Description
 
 This is a personal portfolio website designed to showcase your skills, projects, achievements, and contact details. The website is built using HTML, CSS, and JavaScript to provide a visually appealing and interactive user experience.
 
-Features
+Features:
 
 Home Section: Introduces the user with a welcome message.
 
