@@ -66,10 +66,4 @@ Implement animations for smoother transitions.
 
 Include a blog section for updates and insights.
 
-Author
 
-(Tushar - Data Science Student at SRM University)
-
-License
-
-This project is open-source and free to use for personal or educational purposes.
